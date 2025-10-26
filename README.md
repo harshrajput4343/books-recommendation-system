@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Book-Recommender-System-live
+https://github.com/harshrajput4343/books-recommendation-system
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
